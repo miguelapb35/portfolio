@@ -1,0 +1,20 @@
+<svg width="236" height="40" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="30.793" width="180.652" y="7.5" x="23.0713" id="filter0_d">
+   <feGaussianBlur stdDeviation="2"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="42" width="238" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" filter="url(#filter0_d)"/>
+  <text fill="#222222" stroke="#000" stroke-width="0" x="19.5" y="28.453125" id="svg_3" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Miguel</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="27.453125" x="103.5" stroke-width="0" stroke="#000" fill="#E9B949">Parra</text>
+ </g>
+ <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="30.793" width="180.652" y="7.5" x="23.0713" id="filter0_d">
+  <feGaussianBlur stdDeviation="2"/>
+ </filter>
+</svg>

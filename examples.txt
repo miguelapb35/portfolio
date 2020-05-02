@@ -1,0 +1,17 @@
+<!-- about page -->
+<p>
+  Hello, I am Miguel Parra and I am a web developer. I live and 
+  work in Dresde. I spend most of my day, experimenting with HMTL, CSS and
+  JavaScript, and React. I enjoy coding and the challenge
+  of learning something new everyday. You can also finde me at
+  youtube channel
+  <a href='https://www.youtube.com/user/MrMiguelapb35/playlists'>
+    miguelapb35</a>
+</p>
+
+<!-- contact page -->
+<p>
+  If you are looking to get a hold of me, you can send me
+  an email at 
+  <a href='mailto:miguelapb35@gmail.com'>miguelapb35@gmail.com</a>
+</p>
